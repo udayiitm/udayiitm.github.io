@@ -1,4 +1,4 @@
-# Hi,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> This is Uday sai
+# Hi, 👋 This is Uday sai
 ## Welcome to my site
 ## Here is little about me
       I'm a Data science enthusiast and learner. I am deeply passionate about AI and innovations.
