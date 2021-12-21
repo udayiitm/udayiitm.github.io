@@ -12,7 +12,7 @@
 ## Areas that I am currently working 
     - Machine learning
     - Data science
-    - Computer vision
+    - Computer vision\
 ![](/images/mle.png)
 
 ## Areas of interest 😀
@@ -39,7 +39,7 @@
       
       
   
-   **computer Vision**\
+   **Computer Vision**\
   An image processing project which helps the airplane pilots to have better view. Pilots often face visibility problems at the time of landing due to clouds.Using image processing I eliminated the pixel values corresponding to the clouds So, that images get more clearer and pilots get better view.
   
   
