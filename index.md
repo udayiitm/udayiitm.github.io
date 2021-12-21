@@ -1,4 +1,7 @@
 # Hi, 👋 This is Uday sai
+
+<img align="right" width="225" height="140" src="/images/colab.jpg">
+
 ## Welcome to my site
 ## Here is little about me
       I'm a Data science enthusiast and learner. I am deeply passionate about AI and innovations.
@@ -24,7 +27,7 @@
 ![](/images/crp.jpg)
 
 ## Tools and languages that I'm familiar with
-<img src="/images/pyt.jpg"  width="50"/>  <img src="/images/cp.jpg"  width="50"/> <img src="/images/rpic.png"  width="40"/> <img src="/images/cppa.png"  width="40"/>
+<img src="/images/pyt.jpg"  width="50"/>  <img src="/images/cp.jpg"  width="50"/> <img src="/images/rpic.png"  width="45"/> <img src="/images/cppa.png"  width="40"/>
 <img src="/images/ve.png"  width="50"/>
    
 
