@@ -34,7 +34,7 @@
 
   
   **An e-commerce site**\
-     As a college project I made an e-commerce site program in which users can see the list of items available and just by entering the incex of their item they can add it into
+     As a college project I made an e-commerce site program in which users can see the list of items available and just by entering the index of the item they can add it into
       their cart. At the time of checkout they can enter applicable coupon for discount.
       
    You can check it in my github repo as [ecommerce](https://github.com/udayiitm/ecommerce)
