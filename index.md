@@ -46,6 +46,6 @@
   
 ## Contact
 **Want to Connect !**
-**My inbox is always for you** \
+**My inbox is always open for you** \
 <a href="mailto:21f1003798@student.onlinedegree.iitm.ac.in"><img align="left" width="35px" src="https://i.ibb.co/827XzWZ/red-mail.png" alt="red-mail" border="0"></a>
 <br>
