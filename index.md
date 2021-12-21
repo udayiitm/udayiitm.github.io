@@ -1,7 +1,5 @@
 # Hi, 👋 This is Uday sai
 
-<img align="right" width="225" height="140" src="/images/colab.jpg">
-
 ## Welcome to my site
 ## Here is little about me
       I'm a Data science enthusiast and learner. I am deeply passionate about AI and innovations.
@@ -12,7 +10,7 @@
    - Purusing Bachelors in Data science & Programming at IIT madras
    - Purusing BTech in Artificial Intelligence and Data Science at IIITDM
    
-## Areas that I am currently working 
+## Areas that I am currently working 👨‍💻
     - Machine learning
     - Data science
     - Computer vision
