@@ -12,7 +12,8 @@
 ## Areas that I am currently working 
     - Machine learning
     - Data science
-    - Computer vision\
+    - Computer vision
+    
 ![](/images/mle.png)
 
 ## Areas of interest 😀
