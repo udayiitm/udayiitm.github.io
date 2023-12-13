@@ -3,11 +3,11 @@
 ## Welcome to my site
 ## Here is little about me
       I'm a Data science enthusiast and learner. I am deeply passionate about AI and innovations.
-      Being a sophomore student, I am spending most of my time in exploring new technologies and learning stuff.
+      Being a final year student, I am actively looking for placement opportunities where my work can be used by many users.
       I love to collobrate and learn new things while doing projects.
 
 ## Education 📚
-   - Purusing Bachelors in Data science & Programming at IIT madras
+   - Purusing Bachelor of Science in Data science & Programming at IIT madras
    - Purusing BTech in Artificial Intelligence and Data Science at IIITDM
    
 ## Areas that I am currently working 👨‍💻
@@ -18,8 +18,8 @@
 ![](/images/mle.png)
 
 ## Areas of interest 😀
- - Cryptography
- - IoT
+ - Natural language Processing
+ - Finance
  - Entereprenuership
  
 ![](/images/crp.jpg)
